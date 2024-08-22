@@ -1,0 +1,29 @@
+{
+  "name": "xterm-ssh-client-server-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Magnus Gule",
+  "license": "ISC",
+  "dependencies": {
+    "@xterm/xterm": "^5.5.0",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "ssh2": "^1.15.0",
+    "xterm": "^5.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelodevopsi/xterm-ssh-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yelodevopsi/xterm-ssh-example/issues"
+  },
+  "homepage": "https://github.com/yelodevopsi/xterm-ssh-example#readme",
+  "description": ""
+}
